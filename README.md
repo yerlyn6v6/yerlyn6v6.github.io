@@ -1,6 +1,5 @@
 # yerlyn6v6.github.io
-
-#**1 Introduction**
+##**1 Introduction**
 ##name
 ###yerin cho
 \
