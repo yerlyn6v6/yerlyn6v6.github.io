@@ -8,9 +8,7 @@ career summary : skku student
 python, C, C++
 
 ## **3 Education**
-major : software engineering
-\
-department : Sungkyunkwan University
+Department of Software Engineering at Sungkyunkwan University
 
 ## **4 Achievements and Certifications**
 none
@@ -18,4 +16,4 @@ none
 ## **5 Contact**
 email : yerlyn6v6@g.skku.edu
 \
-GitHub link : [https://github.com/yerlyn6v6](https://github.com/yerlyn6v6)
+GitHub link : [yerlyn6v6](https://github.com/yerlyn6v6)
