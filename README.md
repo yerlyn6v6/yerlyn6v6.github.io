@@ -1,10 +1,10 @@
 # yerlyn6v6.github.io
-##**1 Introduction**
-##name
-###yerin cho
+## **1 Introduction**
+### name
+#### yerin cho
 \
-##career summary
-###skku student
+### career summary
+#### skku student
 \
 \
 **2 Skills**
